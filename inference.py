@@ -127,7 +127,7 @@ out = cv2.VideoWriter('outfile.avi',fourcc, 5, (int(cap.get(3)),int(cap.get(4)))
 frameRate = cap.get(5) #frame rate
 print('framerate:',frameRate)
 if (cap.isOpened()== False): 
-    print("Error opening video stream or file")mpy_array(image)
+    print("Error opening video stream or file")
 while(cap.isOpened()):
     frameId = cap.get(1) #current frame number
     print('frameId: ',frameId)
