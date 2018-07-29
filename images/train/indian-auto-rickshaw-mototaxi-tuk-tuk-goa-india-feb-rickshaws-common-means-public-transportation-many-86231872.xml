@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>indian-auto-rickshaw-mototaxi-tuk-tuk-goa-india-feb-rickshaws-common-means-public-transportation-many-86231872.jpg</filename>
+	<path>D:\ObjectDetectionDataset\new\indian-auto-rickshaw-mototaxi-tuk-tuk-goa-india-feb-rickshaws-common-means-public-transportation-many-86231872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>15</ymin>
+			<xmax>766</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

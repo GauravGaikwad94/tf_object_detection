@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>107.JPG</filename>
+	<path>C:\Users\A664092\OneDrive - Atos\pc_backup\Extra\visteon\ObjectDetectionDataset\jpg\107.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1013</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>132</ymin>
+			<xmax>265</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>autorickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>60</ymin>
+			<xmax>832</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

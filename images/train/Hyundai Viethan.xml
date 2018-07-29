@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>Hyundai Viethan.jpg</filename>
+	<path>D:\ObjectDetectionDataset\new\Hyundai Viethan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>145</ymin>
+			<xmax>632</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>
