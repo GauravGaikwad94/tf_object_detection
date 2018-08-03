@@ -1,3 +1,3 @@
 # tf_object_detection
 
-use https://storage.googleapis.com/work01/frozen_inference_graph.pb model to test
+Download model from this link https://storage.googleapis.com/work01/frozen_inference_graph.pb and save it in car_autorikshaw_inference_graph_frcnn directory.
